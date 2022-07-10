@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Written by Mr Bilo
+#Written by MR-GREEN
 import requests,bs4,json,os,sys,random,datetime,time,re
 try:
 	import rich
